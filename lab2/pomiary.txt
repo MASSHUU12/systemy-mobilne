@@ -1,0 +1,41 @@
+Wewnątrz budynku (3m):
+  1.  -41   dBm
+  2.  -46   dBm
+  3.  -40   dBm
+  śr. -42.3 dBm
+  A.
+  B.
+  C.
+  D.
+  E.
+Pomiędzy ścianami (2m):
+  1.  -53   dBm
+  2.  -60   dBm
+  3.  -58   dBm
+  śr. -57   dBm
+  A.
+  B.
+  C.
+  D.
+  E.
+Pomiędzy piętrami (3m):
+  1.  -86   dBm
+  2.  -47   dBm
+  3.  -49   dBm
+  śr. -60.6 dBm
+  A.
+  B.
+  C.
+  D.
+  E.
+Na zewnątrz (15m):
+  1.  -63   dBm
+  2.  -75   dBm
+  3.  -77   dBm
+  śr. -71.6 dBm
+  A.
+  B.
+  C.
+  D.
+  E.
+
