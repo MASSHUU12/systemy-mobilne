@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi RSSI Monitor</string>
+    <string name="take_measurement">Take Measurement</string>
+    <string name="auto_measure">Auto</string>
+    <string name="measurement_history">Measurement History</string>
+    <string name="not_connected">Not connected to WiFi</string>
+    <string name="permission_required">Location permission is required to access WiFi information</string>
+</resources>

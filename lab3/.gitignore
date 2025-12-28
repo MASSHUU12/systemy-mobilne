@@ -1,0 +1,40 @@
+# Android build files
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle
+.gradle/
+build/
+
+# Android Studio
+*.iml
+.idea/
+.navigation/
+captures/
+
+# NDK
+obj/
+
+# Gradle cache
+.gradle
+
+# Generated files
+bin/
+gen/
+out/
+
+# Keystore files
+*.jks
+*.keystore
+
+# APK files
+*.apk
+*.aab
