@@ -122,7 +122,7 @@ class MainActivity : AppCompatActivity() {
         try {
             val wifiInfo = wifiManager.connectionInfo
             
-            if (wifiInfo.ssid == "<unknown ssid>" || wifiInfo.ssid.isEmpty()) {
+            if (wifiInfo.ssid == null || wifiInfo.ssid == "<unknown ssid>" || wifiInfo.ssid.isEmpty()) {
                 currentInfoText.text = "Not connected to WiFi"
                 Toast.makeText(this, "Not connected to WiFi", Toast.LENGTH_SHORT).show()
                 return
