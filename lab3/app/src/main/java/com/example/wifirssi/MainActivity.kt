@@ -33,9 +33,12 @@ class MainActivity : AppCompatActivity() {
     
     private val handler = Handler(Looper.getMainLooper())
     private var autoMeasureRunnable: Runnable? = null
-    private val AUTO_MEASURE_INTERVAL = 5000L // 5 seconds
     
-    private val PERMISSION_REQUEST_CODE = 1
+    private companion object {
+        const val AUTO_MEASURE_INTERVAL = 5000L // 5 seconds
+        const val PERMISSION_REQUEST_CODE = 1
+        const val UNKNOWN_SSID = "<unknown ssid>"
+    }
     
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -122,7 +125,7 @@ class MainActivity : AppCompatActivity() {
         try {
             val wifiInfo = wifiManager.connectionInfo
             
-            if (wifiInfo.ssid == "<unknown ssid>" || wifiInfo.ssid.isEmpty()) {
+            if (wifiInfo.ssid == UNKNOWN_SSID || wifiInfo.ssid.isEmpty()) {
                 currentInfoText.text = "Not connected to WiFi"
                 Toast.makeText(this, "Not connected to WiFi", Toast.LENGTH_SHORT).show()
                 return
