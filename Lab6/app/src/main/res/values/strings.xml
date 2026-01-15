@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WiFi RSSI Monitor</string>
+    <string name="take_measurement">Take Measurement</string>
+    <string name="auto_measure">Auto</string>
+    <string name="measurement_history">Measurement History</string>
+    <string name="not_connected">Not connected to WiFi</string>
+    <string name="permission_required">Location permission is required to access WiFi information</string>
+    <string name="wifi_information_will_appear_here">WiFi Information will appear here</string>
+    <string name="auto">Auto</string>
+    <string name="details">Details</string>
+    <string name="not_connected_to_wifi">Not connected to WiFi</string>
+    <string name="clear">Clear</string>
+</resources>

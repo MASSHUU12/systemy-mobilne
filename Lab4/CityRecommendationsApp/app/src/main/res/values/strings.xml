@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Paris Recommendations</string>
+
+    <string name="category_landmarks">Landmarks</string>
+    <string name="category_museums">Museums</string>
+    <string name="category_food">Food</string>
+
+    <string name="landmark_eiffel_tower">Eiffel Tower</string>
+    <string name="landmark_eiffel_tower_desc">An iconic wrought-iron lattice tower on the Champ de Mars. It is one of the most recognizable structures in the world.</string>
+
+    <string name="landmark_louvre">Louvre Museum</string>
+    <string name="landmark_louvre_desc">The world\'s largest art museum and a historic monument in Paris. Home to masterpieces like the Mona Lisa and the Venus de Milo.</string>
+
+    <string name="landmark_notre_dame">Notre-Dame Cathedral</string>
+    <string name="landmark_notre_dame_desc">A medieval Catholic cathedral on the Île de la Cité. It is a masterpiece of French Gothic architecture.</string>
+
+    <string name="landmark_arc_de_triomphe">Arc de Triomphe</string>
+    <string name="landmark_arc_de_triomphe_desc">Stands at the center of the Place Charles de Gaulle. It honors those who fought and died for France in the French Revolutionary and Napoleonic Wars.</string>
+
+    <string name="museum_orsay">Musée d\'Orsay</string>
+    <string name="museum_orsay_desc">Housed in a former railway station, this museum holds mainly French art dating from 1848 to 1914, including the largest collection of Impressionist and post-Impressionist masterpieces in the world.</string>
+
+    <string name="museum_pompidou">Centre Pompidou</string>
+    <string name="museum_pompidou_desc">A complex building in the Beaubourg area, it houses the Public Information Library, the Musée National d\'Art Moderne, and IRCAM, a centre for music and acoustic research. Known for its high-tech architecture.</string>
+
+    <string name="museum_rodin">Rodin Museum</string>
+    <string name="museum_rodin_desc">A museum that was opened in 1919, dedicated to the works of the French sculptor Auguste Rodin. It has two sites: the Hôtel Biron and surrounding grounds in central Paris, and just outside Paris at Rodin\'s old home.</string>
+
+    <string name="food_le_relais">Le Relais de l\'Entrecôte</string>
+    <string name="food_le_relais_desc">Famous for its simple menu: a green salad with walnuts, followed by steak frites with their signature sauce. Expect a queue!</string>
+
+    <string name="food_bouillon_chartier">Bouillon Chartier</string>
+    <string name="food_bouillon_chartier_desc">A historic "bouillon" restaurant offering traditional French cuisine at very affordable prices in a stunning Belle Époque dining room.</string>
+
+    <string name="food_l_as_du_fallafel">L\'As du Fallafel</string>
+    <string name="food_l_as_du_fallafel_desc">Located in the Marais district, this spot is legendary for serving one of the best falafel sandwiches in the world. A must-try for street food lovers.</string>
+
+    <string name="food_pierre_herme">Pierre Hermé</string>
+    <string name="food_pierre_herme_desc">A world-renowned pastry chef, his boutiques offer exquisite macarons, chocolates, and pastries that are as beautiful as they are delicious.</string>
+</resources>
